@@ -3,7 +3,7 @@ OSC controler are connectable to all major music production programms, including
 Open Stage Version used: 1.30.2
 To setup them you have to define the MIDI outs of the controler.
 
-The General Controler automaticly addapts to your window size.
+General Controler: includes 2 modes: Pad and Fader mode. You can switch between them easily. You can define own themes or use the pre-selection. Theme options: red, pink, blue, turquoise, green, yellow and custom with rgb-faders. Also the General Controler automaticly addapts to your window size.
 
 <img width="2879" height="1820" alt="image" src="https://github.com/user-attachments/assets/267d5fb5-d542-4048-b7da-e47e52eb778b" />
 
