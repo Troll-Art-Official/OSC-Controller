@@ -2427,7 +2427,7 @@
                 "decimals": 2,
                 "target": "",
                 "bypass": false,
-                "onCreate": "set('P',\"Auto\")\nset('Toggle',\"Off\")\nset('P_Value',\"0\")",
+                "onCreate": "set('P',\"Auto\")\nset('Toggle',\"Off\")\nset('P_Value',\"0\")\nset('P_Auto_1',\"\")\nset('P_Auto_2',\"\")",
                 "onValue": "if(get('Toggle_M')==\"Off\"){\n  set('Toggle_M',\"On\");\n  set('6_5_2',\"AUTO\");\n  set('6_5_1',\"●\");\n  set('P_Auto_2',\"Auto\")\n  set('P_Auto_1',\"●\")\n  set('2_0',\"Auto Pitch On\")\n  setTimeout(()=>{\n    set('2_0',\"\");\n  },500)\n} else if(get('Toggle_M')==\"On\"){\n  set('Toggle_M',\"Off\");\n  \n  set('6_5_2',\"\");\n  set('6_5_1',\"\");\n  set('P_Auto_1',\"\")\n  set('P_Auto_2',\"\")\n  set('2_0',\"Auto Pitch Off\")\n  setTimeout(()=>{\n    set('2_0',\"\");\n  },500)\n}",
                 "colorTextOn": "auto",
                 "label": "@{P}",
