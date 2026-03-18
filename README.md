@@ -3,14 +3,14 @@
 OSC controler are connectable to all major music production programms, including Ableton, FL Studio and Bitwig Studio.
 Open Stage Version used: 1.30.2.
 
-## First guide:
+### First guide:
   To use this controler you need Open Stage Control and a midi port emulator. 
   I personally recommend loopMidi, its free and i tested this controler with loopMidi. But other software could work too.
   You have to define 2 midi-ports in the software you have chosen. Name them as you want.
   For some features you need a midi to key transformator software. If you use ableton suite you have max4life included. If you dont have it I recommend Key2Key, its free aswell.
 
 
-## General Controler features:
+### General Controler features:
   2 modes: 4 custom faders or 16 custom pads
   1 permanent fader optimized for master *(but yet fully customizable)*
   1 permanent fader optimized for stereo control *(but yet fully customizable)*
