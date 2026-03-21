@@ -9,9 +9,9 @@ To use this controler you need OpenStageControl and a midi port emulator *(I per
 Define 2 midi-ports in the midi port emulator software you have chosen. Name them as you want.\
 Start OpenStageControl, then select the controler from your files. Type "OSC:[midiprt1name],[midiport2name] in the MIDI-frame.\
 Launch the server.\
-Start your DAW and pair the settings you want to control.\
+Start your DAW and pair the settings you want to control.
 
-You also can use your phone, tablet or any other computer with internet access. Just type in the URL shown in OpenStageControl or scan the QR-Code.\
+You also can use your phone, tablet or any other computer with internet access. Just type in the URL shown in OpenStageControl or scan the QR-Code.
 
 For some features you need a midi to key transformator software. If you use ableton suite you have max4life included. If you dont have it I recommend Key2Key, its free aswell.
 
