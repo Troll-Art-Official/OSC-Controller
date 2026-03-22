@@ -7,13 +7,15 @@ Open Stage Version used: 1.30.2.
 ### Guide:
 To use this controler you need OpenStageControl and a midi port emulator *(I personally recommend loopMidi, its free and i tested this controler with loopMidi)* on the computer where your DAW is installed.\
 Define 2 midi-ports in the midi port emulator software you have chosen. Name them as you want.\
-Start OpenStageControl, then select the controler from your files. Type "OSC:[midiprt1name],[midiport2name] in the MIDI-frame.\
+Start OpenStageControl, then select the controler from your files. Type "OSC:[midiport1name],[midiport2name]" in the MIDI-frame. *([midiport1name] is output, [midiport2name] is input for the DAW)*\
 Launch the server.\
 Start your DAW and pair the settings you want to control.
 
 You also can use your phone, tablet or any other computer with internet access. Just type in the URL shown in OpenStageControl or scan the QR-Code.
 
 For some features you need a midi to key transformator software. If you use ableton suite you have max4life included. If you dont have it I recommend Key2Key, its free aswell.
+
+YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 
 ### General Controler features:
