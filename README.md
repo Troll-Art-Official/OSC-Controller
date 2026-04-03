@@ -18,7 +18,7 @@ For some features you need a midi to key transformator software. If you use able
 YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 
-### General Controler features:
+### Open Stage Controler #1 features:
   - 2 modes: 4 custom faders or 16 custom pads
   - 1 permanent fader optimized for master *(but yet fully customizable)*
   - 1 permanent fader optimized for stereo control *(but yet fully customizable)*
