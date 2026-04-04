@@ -6,6 +6,10 @@ Open Stage Version used: 1.30.2.
 
 ### Guide:
 To use this controler you need OpenStageControl and a midi port emulator *(I personally recommend loopMidi, its free and i tested this controler with loopMidi)* on the computer where your DAW is installed.\
+Here you can download them:\
+https://openstagecontrol.ammd.net/download/ \
+https://www.tobias-erichsen.de/software/loopmidi.html \
+\
 Define 2 midi-ports in the midi port emulator software you have chosen. Name them as you want.\
 Start OpenStageControl, then select the controler from your files. Type "OSC:[midiport1name],[midiport2name]" in the MIDI-frame. *([midiport1name] is output, [midiport2name] is input for the DAW)*\
 Launch the server.\
