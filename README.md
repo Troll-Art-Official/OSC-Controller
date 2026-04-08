@@ -23,7 +23,7 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 
 ### OSC Controler A1 features:
-  - Optimized for Tablets
+  - optimized for Tablets
   - 2 modes: 4 custom faders with buttons or 16 custom pads
   - 1 permanent fader optimized for master *(but yet fully customizable)*
   - 1 permanent fader optimized for stereo control *(but yet fully customizable)*
@@ -32,7 +32,7 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - automaticly adapts to your window size
 
 ### OSC Controler S1 features:
-  - Optimized for Smartphones
+  - optimized for Smartphones
   - 2 custom faders with buttons
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size
