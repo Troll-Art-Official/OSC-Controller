@@ -22,10 +22,18 @@ For some features you need a midi to key transformator software. If you use able
 YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 
-### Open Stage Controler #1 features:
-  - 2 modes: 4 custom faders or 16 custom pads
+### OSC Controler A1 features:
+  - Optimized for Tablets
+  - 2 modes: 4 custom faders with buttons or 16 custom pads
   - 1 permanent fader optimized for master *(but yet fully customizable)*
   - 1 permanent fader optimized for stereo control *(but yet fully customizable)*
   - 8 buttons with 12 options in total and 9 MIDI outputs. Switch between the button modes via the SHIFT button *(To use the control buttons like 'to start' or 'line up' you have to use a midi to key transformator software like mentioned earlier)*
   - customizable appearance with 6 default options *(red, pink, blue, turqeoise, green, yellow)* and a custom option with rgb-faders
   - automaticly adapts to your window size
+
+### OSC Controler S1 features:
+  - Optimized for Smartphones
+  - 2 custom faders with buttons
+  - customizable appearance with rgb-faders
+  - automaticly adapts to your window size
+
