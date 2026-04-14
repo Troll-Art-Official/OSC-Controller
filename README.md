@@ -52,4 +52,5 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - automaticly adapts to your window size
 
 
+Want to support me? https://trollartofficial.gumroad.com/
 Copyright (C) 2026 Tobias Rößler
