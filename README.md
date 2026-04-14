@@ -28,9 +28,7 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - 1 permanent fader optimized for master *(but yet fully customizable)*
   - 1 permanent fader optimized for stereo control *(but yet fully customizable)*
   - 8 buttons with 14 options in total and 11 MIDI outputs. Switch between the button modes via the SHIFT button\
-  suggested controls: - loop\
-  - play\
-  - pause
+  suggested controls: loop, play, pause, record, stop record, line up, line down, jump to start (pos1), jump to end (end), mute, unmute, undo, redo\
   *(To use the control buttons like 'to start' or 'line up' you have to use a midi to key transformator software like mentioned earlier)*
   - customizable appearance with 6 default options *(red, pink, blue, turqeoise, green, yellow)* and a custom option with rgb-faders
   - automaticly adapts to your window size
