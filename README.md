@@ -50,3 +50,6 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - 1 XY-Pad with custom mapping
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size
+
+
+Copyright (C) 2026 Tobias Rößler
