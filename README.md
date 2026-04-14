@@ -1,17 +1,17 @@
-# OSC Controler
+# OSC Controller
 
 Use any kind of tech with a screen to control your DAW.\
-OSC controler are connectable to all major music production programms *(DAWs)* , including Ableton, FL Studio and Bitwig Studio.\
+OSC controller are connectable to all major music production programms *(DAWs)* , including Ableton, FL Studio and Bitwig Studio.\
 Open Stage Version used: 1.30.2.
 
 ### Guide:
-To use this controler you need OpenStageControl and a midi port emulator *(I personally recommend loopMidi, its free and i tested this controler with loopMidi)* on the computer where your DAW is installed.\
+To use this controller you need OpenStageControl and a midi port emulator *(I personally recommend loopMidi, its free and i tested this controler with loopMidi)* on the computer where your DAW is installed.\
 Here you can download them:\
 https://openstagecontrol.ammd.net/download/ \
 https://www.tobias-erichsen.de/software/loopmidi.html \
 \
 Define 2 midi-ports in the midi port emulator software you have chosen. Name them as you want.\
-Start OpenStageControl, then select the controler from your files. Type "OSC:[midiport1name],[midiport2name]" in the MIDI-frame. *([midiport1name] is output, [midiport2name] is input for the DAW)*\
+Start OpenStageControl, then select the controller from your files. Type "OSC:[midiport1name],[midiport2name]" in the MIDI-frame. *([midiport1name] is output, [midiport2name] is input for the DAW)*\
 Launch the server.\
 Start your DAW and pair the settings you want to control.
 
@@ -22,7 +22,7 @@ For some features you need a midi to key transformator software. If you use able
 YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 
-### OSC Controler A1 features:
+### OSC Controller A1 features:
   - optimized for Tablets
   - 2 modes: 4 custom faders with buttons or 16 custom pads
   - 1 permanent fader optimized for master *(but yet fully customizable)*
@@ -33,9 +33,20 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - customizable appearance with 6 default options *(red, pink, blue, turqeoise, green, yellow)* and a custom option with rgb-faders
   - automaticly adapts to your window size
 
-### OSC Controler S1 features:
+### OSC Controller S1 features:
   - optimized for Smartphones
   - 2 custom faders with buttons
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size
 
+### OSC Controller S2 features:
+  - optimized for Smartphones
+  - 8 custom pads
+  - customizable appearance with rgb-faders
+  - automaticly adapts to your window size:
+
+### OSC Controller S3 features:
+  - optimized for Smartphones
+  - 1 XY-Pad with custom mapping
+  - customizable appearance with rgb-faders
+  - automaticly adapts to your window size
