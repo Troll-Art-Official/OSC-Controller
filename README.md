@@ -24,7 +24,7 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
 
 ### OSC Controller A1 features:
   - optimized for Tablets
-  - 2 modes: 4 custom faders with buttons or 16 custom pads
+  - 3 modes: 4 custom faders with buttons, 16 custom pads or 2 custom xy-pads (with custom mapping supported)
   - 1 permanent fader optimized for master *(but yet fully customizable)*
   - 1 permanent fader optimized for stereo control *(but yet fully customizable)*
   - 8 buttons with 14 options in total and 11 MIDI outputs. Switch between the button modes via the SHIFT button\
