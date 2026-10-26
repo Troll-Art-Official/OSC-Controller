@@ -33,11 +33,22 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - customizable appearance with 6 default options *(red, pink, blue, turqeoise, green, yellow)* and a custom option with rgb-faders
   - automaticly adapts to your window size
 
+  Images:
+  <img width="2880" height="1824" alt="Screenshot 2026-10-26 134625" src="https://github.com/user-attachments/assets/38252804-ff03-4a67-afd7-ca54ddf82501" />
+  <img width="2880" height="1820" alt="Screenshot 2026-10-26 134805" src="https://github.com/user-attachments/assets/21406c81-98e3-478d-bd70-0e32b76e49d2" />
+  <img width="2880" height="1822" alt="Screenshot 2026-10-26 134842" src="https://github.com/user-attachments/assets/1f6d13d6-3dfe-4274-a964-f47aecf1c3f4" />
+  <img width="2880" height="1820" alt="Screenshot 2026-10-26 134900" src="https://github.com/user-attachments/assets/63b33b82-7dcd-440e-afeb-0aee36f4a8eb" />
+  <img width="2880" height="1822" alt="Screenshot 2026-10-26 134943" src="https://github.com/user-attachments/assets/52d0155d-d287-4879-9389-98757f1f10a9" />
+
 ### OSC Controller S1 features:
   - optimized for Smartphones
   - 2 custom faders with buttons
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size
+
+  Image:
+  <img width="1104" height="1722" alt="image" src="https://github.com/user-attachments/assets/36c78f87-4fe4-47a7-84ee-3b4b0c85872b" />
+
 
 ### OSC Controller S2 features:
   - optimized for Smartphones
@@ -45,11 +56,19 @@ YT video: https://youtu.be/fRWHsCI260I?is=a1_Zy_3hvFy_aU5Q
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size:
 
+  Image:
+  <img width="1102" height="1724" alt="image" src="https://github.com/user-attachments/assets/ba7e1962-be86-41cb-ae2a-bc6a7d02b488" />
+
+
 ### OSC Controller S3 features:
   - optimized for Smartphones
   - 1 XY-Pad with custom mapping
   - customizable appearance with rgb-faders
   - automaticly adapts to your window size
+
+  Image:
+  <img width="1098" height="1724" alt="image" src="https://github.com/user-attachments/assets/e8f47897-297b-442e-8a7b-f9a6a67576bc" />
+
 
 
 Want to support me? https://trollartofficial.gumroad.com/ \
